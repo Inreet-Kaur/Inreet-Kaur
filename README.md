@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inreet-Kaur
-- 👀 I’m interested in artificial intelligence and computer vision.
-- 🌱 I’m currently enrolled in level 1 of Bachelor of Engineerin Co-op Program at McMaster University intending to specialise in Software/Computer Engineering.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently enrolled in level 2 of Bachelor of Engineering Co-op Program - Software Engineering at McMaster University.
 - 💞️ I’m looking to collaborate on Computing Projects
 - 📫 How to reach me on https://www.linkedin.com/in/inreet-kaur-0b076b141/
 
